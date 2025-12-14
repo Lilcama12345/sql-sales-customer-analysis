@@ -196,6 +196,11 @@ This repository is intended for:
 - SQL portfolio demonstration
 - Internship and entry-level data analyst applications
 
+## How to Use
+1. Download the `.db` file
+2. Open using DB Browser for SQLite
+3. Run queries from `/sql` folder
+
 ---
 
 📌 *This project demonstrates practical SQL capabilities with a strong emphasis on business-oriented data analysis.*
